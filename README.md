@@ -1,2 +1,3 @@
 Проект является лабораторной работой и содержит в себе 2 кода на языке программирования Python: один из них считает количество гласных в строке, написанной на русском, а другой - приводит все буквы к верхнему и нижнему регистру.
 ssh-ed25519 /E/trIT13vmsx8DU04GZam2oqXgJukKBzSRniJNeoy
+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
