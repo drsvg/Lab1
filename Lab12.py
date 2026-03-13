@@ -4,6 +4,9 @@ print("Выберите, что сделать со строкой:\n1. Сдел
 b=int(input())
 if b==1:
     a=a.lower()
-else:
+    print(a)
+elif b==2:
     a=a.upper()
-print(a)
+    print(a)
+else:
+    print("error")
